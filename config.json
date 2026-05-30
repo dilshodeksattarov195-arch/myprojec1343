@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondave",
+        "uuid": 5997838,
+        "checksum": "xhhhmd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
